@@ -1,42 +1,89 @@
 👋 Hi, I'm Pavan C Shekar
-I'm a Computer Science student at Reva University and Technical Lead for the AR/VR Club, passionate about full stack development, machine learning, and AI-driven solutions. With expertise in Python, JavaScript, Java, and tools like Docker and MySQL, I build scalable, innovative systems that solve real-world problems. I’m also enthusiastic about cloud computing, cybersecurity, and creating impactful projects like AI-powered chatbots and recommendation engines.
-🌟 Currently exploring: Deep Learning, Generative AI, and scalable system design.🚀 Fun fact: I organized GameForge 2025, a national-level Gameathon, and love mentoring developers in Unity-based game creation!
 
-🛠️ Skills
+🎓 Final-Year B.Tech Computer Science Student at REVA University
+💻 AI/ML Enthusiast | Full-Stack Developer | GenAI Explorer
+🚀 Passionate about building intelligent systems, scalable APIs, and impactful software.
 
 
-🌟 Featured Projects
-📚 Book Recommendation System
-A scalable recommendation engine built with PySpark and ALS algorithms, processing the Goodreads 10K dataset to deliver personalized book suggestions with optimized distributed computing.
-🖼️ Image Caption Generator
-An advanced CNN-LSTM model using InceptionV3 for feature extraction and LSTM for generating natural language image descriptions, showcasing deep learning for computer vision and NLP.
-🤖 AI Placement Trainer Chatbot
-An AI-powered chatbot leveraging RAG models and Qdrant vector database for resume analysis, interview simulations, and contextual Q&A to support placement preparation.
+
+🚀 About Me
+🔬 Working on AI-powered systems using LLMs and dynamic web data
+🧠 Interested in Machine Learning, Generative AI, and System Design
+🌐 Love building full-stack applications with integrated APIs
+🧪 Exploring Cloud Infrastructure, Containers, and Distributed Systems
+🎮 Technical Lead of a college club focused on AR/VR and game development
+
+
 
 🏆 Achievements
 
-2nd Runner-Up at Argonyx 2024 🥉Awarded for Voyage 2.0, an AI-powered travel itinerary planner using Flask, Groq API, and SerpAPI for real-time, personalized trip recommendations.
+🥈 2nd Runner-Up — Argonyx 24 Hackathon
+Project: Voyage 2.0
 
-GameForge 2025 Organizer 🎮Led a 36-hour national Gameathon at Reva University, collaborating with Realitix Club to mentor 50+ developers in Unity-based game development.
+🎮 Organizer & Lead — GameForge 2025
+National-level 36-hour Gameathon
 
-Docker Foundations Professional Certificate 🐳Certified in Docker CLI, Dockerfiles, and image layering for creating portable, scalable containerized environments (LinkedIn Learning, May 2025).
 
+
+💻 Tech Stack
+Languages
+Python
+Java
+JavaScript
+AI / ML
+TensorFlow
+PySpark
+Scikit-learn
+CNN-LSTM
+Retrieval-Augmented Generation (RAG)
+Backend
+Node.js
+Express
+REST APIs
+MongoDB
+MySQL
+Frontend
+Next.js
+React
+Streamlit
+DevOps / Tools
+Docker
+Git
+Linux
+Nginx
+📌 Featured Projects
+
+📈 Gyandcx – Collaborative Crypto Paper Trading Platform
+
+A platform that allows users to simulate cryptocurrency trading without real money, enabling learning and experimentation with trading strategies.
+Features include collaborative trading environments, portfolio tracking, and market simulation using real-time crypto data APIs.
+
+📚 PySpark Book Recommendation Engine
+
+Large-scale recommendation system using collaborative filtering with Apache Spark.
+
+🤖 AI Placement Trainer Chatbot
+
+AI chatbot designed to simulate technical interviews and help students prepare for placements.
+
+🖼 Image Captioning System
+
+Deep learning model using CNN + LSTM to automatically generate captions for images.
 
 
 📊 GitHub Stats
+Contributions | AI Projects | Full Stack | Research
 
+(You can add GitHub stat cards here if you want)
 
-📬 Connect with Me
+📚 Currently Learning
+Advanced AI Engineering
+System Design for AI Applications
+Cloud-Native Architectures
+Nginx & Infrastructure Optimization
 
-💡 Open to collaboration on AI, full stack, or game development projects! Feel free to reach out for freelance opportunities or to discuss innovative ideas.
+📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/pavan-c-shekar/
+GitHub: https://github.com/pavancshekar
 
-🌐 Languages
-
-English: Proficient in speaking, writing, and professional communication  
-Kannada: Native/Bilingual proficiency  
-Telugu: Fluent in speaking and understanding  
-Hindi: Strong communication proficiency  
-Tamil: Basic conversational proficiency
-
-
-⭐ Star my repos if you find them interesting! Let's build something amazing together! 🚀
+⭐ Always open to collaborating on interesting AI and full-stack projects.
